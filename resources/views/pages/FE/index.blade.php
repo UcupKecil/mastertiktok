@@ -302,11 +302,10 @@
                 <!--start why choose heading-->
                 <div class="col-md-4">
                     <div class="why-choose-intro">
-                        <h2>Why Choose Us?</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat.</p>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.</p>
+                        <h2>BENEFIT</h2>
+                       
                         <div class="why-choose-btn">
-                            <a href="#">Learn More</a>
+                            <a href="#">DAFTAR</a>
                         </div>
                     </div>
                 </div>
@@ -321,9 +320,9 @@
                                         class="img-fluid" alt="image">
                                 </div>
                                 <div class="why-choose-cont">
-                                    <h3>High Quality Courses</h3>
-                                    <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
-                                        orci. Aenean dignissim.</p>
+                                    <h3>Waktu Singkat</h3>
+                                    <p>Tidak membutuhkan banyak waktu 
+                                        untuk mengerjakan bisnisnya dari belajar, praktek sampai mendapatkan hasil</p>
                                 </div>
                             </div>
                         </div>
@@ -336,9 +335,9 @@
                                         class="img-fluid" alt="image">
                                 </div>
                                 <div class="why-choose-cont">
-                                    <h3>Expert Instructors</h3>
-                                    <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
-                                        orci. Aenean dignissim.</p>
+                                    <h3>Tidak Butuh Modal</h3>
+                                    <p>Setelah mengeluarkan investasi kelas 1X saja, 
+                                        untuk mempraktekkan materinya ada tidak memerlukan tambahan modal</p>
                                 </div>
                             </div>
                         </div>
@@ -351,9 +350,9 @@
                                         class="img-fluid" alt="image">
                                 </div>
                                 <div class="why-choose-cont">
-                                    <h3>Life Time Access</h3>
-                                    <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
-                                        orci. Aenean dignissim.</p>
+                                    <h3>Hanya Dari HP</h3>
+                                    <p>Video tutorial FULL 100% dari HP dan praktek materinya pun 100% juga hanya dari HP, 
+                                        tanpa perlu laptop dan bisa sambil rebahan</p>
                                 </div>
                             </div>
                         </div>
@@ -366,9 +365,9 @@
                                         class="img-fluid" alt="image">
                                 </div>
                                 <div class="why-choose-cont">
-                                    <h3>Dedicated Support</h3>
-                                    <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
-                                        orci. Aenean dignissim.</p>
+                                    <h3>Tempat Flexible</h3>
+                                    <p>Bisa dikerjakan kapan saja, dimana saja sesuai dengan kesibukan masing-masing. 
+                                        Sambil kerja, urus rumah, sambil santai, dll</p>
                                 </div>
                             </div>
                         </div>
@@ -486,6 +485,7 @@
         </div>
     </section>
     <!--end team-area-->
+
     <!--start blog-area-->
     <section class="blog-area">
         <div class="container">
@@ -581,9 +581,86 @@
                     </div>
                 </div>
                 <!--end blog single-->
+                
             </div>
         </div>
+        
     </section>
     <!--end blog-area-->
+    <!--start newsletter area-->
+    <section class="newsletter-area">
+        <div class="container">
+        <div class="course-curriculum">
+                                        <h3>QNA Tanya Jawab Tentang Kelas:</h3>
+                                        <div id="accordion">
+                                            <!--start curriculum single-->
+                                            <div class="card active">
+                                                <div class="card-header two active">
+                                                    <a class="card-link" data-toggle="collapse" href="#collapseOne">Untuk daftar apakah perlu banyak followers dulu??</a>
+                                                </div>
+                                                <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                                                    <div class="card-body current">
+                                                        <div class="course-lesson">
+                                                            <p>TIDAK.! Semua testimoni hasil dari peserta kelas, mereka memulai praktek dari NOL Followers</p>
+                                                        </div>
+                                                       
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--end curriculum single-->
+                                            <!--start curriculum single-->
+                                            <div class="card">
+                                                <div class="card-header two">
+                                                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">Apakah cocok untuk pemula bahkan yang belum punya akun TikTok?</a>
+                                                </div>
+                                                <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                                                    <div class="card-body">
+                                                        <div class="course-lesson">
+                                                            <p>YA.! Sangat cocok. Materi kelas dimulai dari NOL dari membuat akun TikTok</p>
+                                                        </div>
+                                                       
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--end curriculum single-->
+                                            <!--start curriculum single-->
+                                            <div class="card">
+                                                <div class="card-header two">
+                                                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">Apakah ada biaya perpanjangan tahunan atau biaya lainnya setelah daftar?</a>
+                                                </div>
+                                                <div id="collapseThree" class="collapse" data-parent="#accordion">
+                                                    <div class="card-body">
+                                                        <div class="course-lesson">
+                                                            <p>Kelas ini hanya sekali bayar unt seumur hidup dan GRATIS update materi tanpa syarat, dan dalam menjalankan
+                                                                 praktekknya tidak perlu biaya lagi kecuali kota internet saja.</p>
+                                                        </div>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--end curriculum single-->
+                                            <!--start curriculum single-->
+                                            <div class="card">
+                                                <div class="card-header two">
+                                                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">
+                                                    Apakah ada jaminan pasti berhasil?</a>
+                                                </div>
+                                                <div id="collapseFour" class="collapse" data-parent="#accordion">
+                                                    <div class="card-body">
+                                                        
+                                                        <div class="course-lesson">
+                                                            <p>TIDAK ADA.! Keberhasilan di tangan peserta dalam mempraktekkan materi kelas. Saya hanya bisa tunjukkan Testimoni/BUKTI yang sudah berhasil.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--end curriculum single-->
+                                        </div>
+                                    </div>
+        </div>
+    </section>
+    <!--end newsletter area-->
+
+    
 @endsection
 <!--end footer-->
