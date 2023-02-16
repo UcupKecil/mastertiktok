@@ -342,8 +342,11 @@
     <!--start newsletter area-->
     <section class="newsletter-area">
         <div class="container">
-        <div class="course-curriculum" style="border: 1px solid #dee2e6;
-    border-radius: 4px;">
+        <div class="course-curriculum" style="color: #10c3c8;
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;">
                                         <h3>QNA Tanya Jawab Tentang Kelas:</h3>
                                         <div id="accordion">
                                             <!--start curriculum single-->
