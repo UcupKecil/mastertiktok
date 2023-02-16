@@ -106,6 +106,7 @@
                                     <span class="course-price">Rp. {{ number_format($course->price) }}</span>
                                     <h3 class="course-title">
                                         <a href="{{ url('/course/' . $course->slug) }}">{{ $course->name }}</a>
+                                        <div id="countdown"></div>
                                     </h3>
                                     {{-- <div class="course-rating">
                                         <span class="star-rating-group">
@@ -142,32 +143,7 @@
         </section>
     @endif
     <!--end course area-->
-    <!--start discount area-->
-    <section class="discount-area overlay">
-        <div class="container">
-            <div class="discount-wrap">
-                <!--start discount-image-->
-                <div class="discount-img">
-                    <img src="{{ asset('assets/templates/omexo/assets/images/img-1.jpg') }}" class="img-fluid"
-                        alt="image">
-                </div>
-                <!--end discount-image-->
-                <!--start discount-content-->
-                <div class="discount-cont">
-                    <h4>Limited time offer</h4>
-                    <h2>50% Discount On All Of Our New & Upcoming Courses</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing . Donec odio. Quisque volutpat mattis eros.
-                        Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit.</p>
-                    <div id="countdown"></div>
-                    <div class="btn-default">
-                        <a href="#">Enroll Now</a>
-                    </div>
-                </div>
-                <!-- end discount-content -->
-            </div>
-        </div>
-    </section>
-    <!--end discount-area-->
+   
     <!--start testimonial-area-->
     <section class="testimonial-area">
         <div class="container">
@@ -486,107 +462,7 @@
     </section>
     <!--end team-area-->
 
-    <!--start blog-area-->
-    <section class="blog-area">
-        <div class="container">
-            <div class="row">
-                <!--start sec-heading-->
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="sec-heading text-center">
-                        <h4>blog</h4>
-                        <h2>Latest News</h2>
-                    </div>
-                </div>
-                <!--end sec-heading-->
-            </div>
-            <div class="row blog-post">
-                <!--start blog single-->
-                <div class="col-md-4">
-                    <div class="blog-post-single">
-                        <div class="post-media">
-                            <img src="{{ asset('assets/templates/omexo/assets/images/blog-5.jpg') }}" class="img-fluid"
-                                alt="image">
-                        </div>
-                        <div class="blog-post-content">
-                            <ul class="post-meta">
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-user"><span>Omexo</span></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-calendar"><span>20 Jan, 2022</span></i>
-                                    </a>
-                                </li>
-                            </ul>
-                            <h3><a href="#">Learn Webs Applications Development from Experts</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.
-                                Pellentesque aliquet</p>
-                        </div>
-                    </div>
-                </div>
-                <!--end blog single-->
-                <!--start blog single-->
-                <div class="col-md-4">
-                    <div class="blog-post-single">
-                        <div class="post-media">
-                            <img src="{{ asset('assets/templates/omexo/assets/images/blog-5.jpg') }}" class="img-fluid"
-                                alt="image">
-                        </div>
-                        <div class="blog-post-content">
-                            <ul class="post-meta">
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-user"><span>Omexo</span></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-calendar"><span>22 Jan, 2022</span></i>
-                                    </a>
-                                </li>
-                            </ul>
-                            <h3><a href="#">Expand Your Career Opportunities With Python</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.
-                                Pellentesque aliquet</p>
-                        </div>
-                    </div>
-                </div>
-                <!--end blog single-->
-                <!--start blog single-->
-                <div class="col-md-4">
-                    <div class="blog-post-single">
-                        <div class="post-media">
-                            <img src="{{ asset('assets/templates/omexo/assets/images/blog-5.jpg') }}" class="img-fluid"
-                                alt="image">
-                        </div>
-                        <div class="blog-post-content">
-                            <ul class="post-meta">
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-user"><span>Omexo</span></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-calendar"><span>24 Jan, 2022</span></i>
-                                    </a>
-                                </li>
-                            </ul>
-                            <h3><a href="#">Complete PHP Programming Career Guideline</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.
-                                Pellentesque aliquet</p>
-                        </div>
-                    </div>
-                </div>
-                <!--end blog single-->
-                
-            </div>
-        </div>
-        
-    </section>
-    <!--end blog-area-->
+   
     <!--start newsletter area-->
     <section class="newsletter-area">
         <div class="container">
