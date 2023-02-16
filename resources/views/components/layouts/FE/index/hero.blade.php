@@ -1,4 +1,4 @@
-<section class="hero-area" style="
+<section style="
     background-image: {{ asset('assets/templates/omexo/assets/images/logomta.png') }};
     background-position: center;
     background-repeat: no-repeat;
