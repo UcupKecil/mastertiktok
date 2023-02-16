@@ -8,7 +8,7 @@
         <div class="sidebar-content">
             <div class="sidebar-logo">
                 <a href="{{ url('/') }}">
-                    <img class="img-fluid" src="{{ asset('assets/templates/omexo/assets/images/logo.png') }}"
+                    <img class="img-fluid" src="{{ asset('assets/logo.png') }}"
                         alt="logo.png">
                 </a>
             </div>

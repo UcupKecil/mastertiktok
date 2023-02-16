@@ -1,6 +1,8 @@
 <footer class="footer-area">
     <!--start footer top area-->
-    <div class="footer-top-area">
+    <div class="footer-top-area" style="background: #000000;
+    padding: 90px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);" >
         <div class="container">
             <div class="row">
                 <!--start footer widget-->
