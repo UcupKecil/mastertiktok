@@ -7,7 +7,7 @@
             <div class="row">
                 <!--start footer widget-->
                 <div class="col-lg-8 col-md-6">
-                    <div class="" style="max-width: 160px;
+                    <div class="footer-widget logo" style="max-width: 160px;
     margin-bottom: 20px;">
                         <a href="#"><img src="{{ asset('assets/templates/omexo/assets/images/logomta.png') }}"
                                 alt="logo"></a>
