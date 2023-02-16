@@ -6,15 +6,10 @@
             <h2 style="color:white;">MELALUI TIKTOK</h2>
             
             <ul>
-                <li style="display: block;
+                <li style="
     background-color: #ed1e52;
     color: #fff;
-    padding: 15px 30px;
-    border-radius: 5px;
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;"><a href="#">DAFTAR SEKARANG</a></li>
+    "><a href="#">DAFTAR SEKARANG</a></li>
                 
             </ul>
         </div>
