@@ -19,19 +19,11 @@
             </div>
             <div class="contact-info">
                 <ul>
-                    <li><i class="fa fa-envelope"></i> support@example.com</li>
-                    <li><i class="fa fa-phone"></i> +98 012345 6789</li>
+                    <li><i class="fa fa-envelope"></i> mastertiktokagency@gmail.com</li>
+                    <li><i class="fa fa-phone"></i> +6282116495412</li>
                 </ul>
             </div>
-            <div class="social-icon">
-                <ul>
-                    <li><span>Follow Us:</span></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                </ul>
-            </div>
+            
             <div class="header-log-reg">
                 <ul>
                     <li><a href="login.html">Login</a></li>
