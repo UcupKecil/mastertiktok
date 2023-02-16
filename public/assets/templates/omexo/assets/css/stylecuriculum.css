@@ -1,0 +1,47 @@
+.course-curriculum .card {
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
+
+.course-curriculum .course-lesson {
+    border-top: 1px solid #dee2e6;
+    padding: 10px 25px 0;
+}
+
+.course-curriculum .card-body {
+    padding: 0;
+}
+
+.course-curriculum .course-lesson i {
+    color: #b4b7c0;
+    padding-right: 10px;
+}
+
+.course-curriculum .course-lesson .lesson-text i {
+    padding-right: 0;
+    padding-left: 10px;
+}
+
+.course-curriculum .course-lesson p {
+    color: #212327;
+}
+
+.course-curriculum .card-header a {
+    color: #10c3c8;
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.course-curriculum .card-header.active a,
+.course-curriculum .card-header a:hover {
+    color: #ed1e52;
+}
+
+.course-curriculum h3,
+.review-contents h3 {
+    color: #ed1e52;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
