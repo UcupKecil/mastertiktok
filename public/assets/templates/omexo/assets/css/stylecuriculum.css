@@ -103,3 +103,107 @@
     font-weight: 700;
     margin-bottom: 15px;
 }
+
+
+.why-choose-area {
+    padding: 100px 0 65px;
+}
+
+.why-choose-area h2 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+    margin-bottom: 15px;
+}
+
+.why-choose-btn {
+    margin: 50px 160px 0 0;
+}
+
+.why-choose-btn a {
+    background-color: #ed1e52;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1px;
+    padding: 14px 30px;
+}
+
+.why-choose-btn a:hover {
+    background-color: #10c3c8;
+}
+
+.why-choose-cont-wrap {
+    margin-top: 25px;
+}
+
+.why-choose-single {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.why-choose-icon {
+    width: 12%;
+    float: left;
+    margin-top: 5px;
+}
+
+.why-choose-icon img {
+    width: 45px;
+}
+
+.why-choose-cont {
+    width: 88%;
+    float: left;
+    padding-left: 15px
+}
+
+.why-choose-cont h3 {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.why-choose-area .sec-heading {
+    padding-left: 0;
+    margin-bottom: 20px
+}
+
+.why-choose-img {
+    padding-right: 35px;
+}
+
+.why-choose-img img {
+    border-radius: 20px;
+}
+
+.why-choose-area.three {
+    padding: 95px 0 100px;
+}
+
+.choose-single.three {
+    padding: 40px 20px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.choose-single.three:hover {
+    -webkit-box-shadow: 0 20px 30px rgba(51, 51, 51, 0.10);
+    box-shadow: 0 20px 30px rgba(51, 51, 51, 0.10)
+}
+
+.why-choose-icon.three {
+    margin: 0 0 20px;
+    width: 100%;
+    float: none;
+}
+
+.why-choose-cont.three {
+    max-width: 100%;
+    float: none;
+}
