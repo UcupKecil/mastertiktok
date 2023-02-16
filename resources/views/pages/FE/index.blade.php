@@ -252,25 +252,7 @@
         </div>
     </section>
     <!--end testimonial area-->
-    <!--start newsletter area-->
-    <section class="newsletter-area">
-        <div class="container">
-            <div class="row newsletter-wrap overlay">
-                <div class="col-lg-6">
-                    <h2>Subscribe Our Newsletter</h2>
-                </div>
-                <div class="col-lg-6">
-                    <div class="subscribe-form">
-                        <form>
-                            <input type="email" placeholder="Your email address">
-                            <button type="submit">Subscribe Now</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--end newsletter area-->
+   
     <!--start why choose area-->
     <section class="why-choose-area">
         <div class="container">
