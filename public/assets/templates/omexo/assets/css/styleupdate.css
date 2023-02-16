@@ -3,3 +3,8 @@
     padding: 90px 0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
+
+.footer-bottom-area {
+    background: #10c3c8;
+    padding: 20px 0;
+}

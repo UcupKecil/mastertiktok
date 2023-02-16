@@ -73,7 +73,8 @@
     </div>
     <!--end footer top area-->
     <!--start footer bottom-->
-    <div class="footer-bottom-area text-center">
+    <div class="footer-bottom-area text-center" style="background: #10c3c8;
+    padding: 20px 0;" >
         <div class="container">
             <p class="m-0" style="color:black;">&copy; Copy 2023. MASTER TIKTOK AGENCY</p>
         </div>
