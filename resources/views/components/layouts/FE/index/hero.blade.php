@@ -1,11 +1,4 @@
-<section style="
-    background-image: {{ asset('assets/templates/omexo/assets/images/logomta.png') }};
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 200px 0;
-    position: relative;
-    ">
+<section class="hero-area">
     <div class="container">
         <div class="caption-content text-center">
            
