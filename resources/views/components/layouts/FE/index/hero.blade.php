@@ -6,10 +6,7 @@
             <h2 style="color:white;">MELALUI TIKTOK</h2>
             
             <ul>
-                <li style="
-    background-color: #ed1e52;
-    color: #fff;
-    "><a href="#">DAFTAR SEKARANG</a></li>
+                <li><a href="#">DAFTAR SEKARANG</a></li>
                 
             </ul>
         </div>
