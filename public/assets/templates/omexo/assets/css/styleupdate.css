@@ -18,14 +18,11 @@
     max-width: 160px;
 }
 
-.caption-content li a {
-    display: block;
-    background-color: #ed1e52;
-    color: #fff;
-    padding: 15px 30px;
-    border-radius: 5px;
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+.hero-area {
+    background-image: url(../images/logomta.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+    position: relative;
 }

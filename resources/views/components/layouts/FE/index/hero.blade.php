@@ -1,4 +1,11 @@
-<section class="hero-area">
+<section class="hero-area" style="
+    background-image: url(../images/logomta.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+    position: relative;
+    ">
     <div class="container">
         <div class="caption-content text-center">
            
