@@ -2358,64 +2358,7 @@ p {
     border-radius: 20px;
 }
 
-.card {
-    margin: 0 0 15px;
-    border: none;
-}
 
-
-.card-header {
-    position: relative;
-    background-color: #fff;
-    border-bottom: none;
-    padding: 0;
-    letter-spacing: 1px;
-}
-
-.card-body.current {
-    display: block;
-}
-
-.card-header a:before {
-    content: '\f067';
-    font-family: 'fontawesome';
-    position: absolute;
-    color: #ed1e52;
-    font-size: 12px;
-    right: 15px
-}
-
-.card-header.active a:before {
-    content: '\f068';
-}
-
-.card-header a {
-    font-size: 20px;
-    font-weight: 700;
-    text-transform: capitalize;
-    line-height: 25px;
-    color: #10c3c8;
-    display: block;
-    position: relative;
-    padding: 20px 25px
-}
-
-.card-header a:hover {
-    color: #ed1e52;
-}
-
-.card-body {
-    padding: 0;
-    color: #000000;
-    font-size: 16px;
-    line-height: 28px;
-    font-family: "Rubik", Sans-serif;
-    padding: 0 25px 25px
-}
-
-.card-header.two a:hover {
-    color: #10c3c8;
-}
 
 .faq-area.two {
     background-color: #fff;
