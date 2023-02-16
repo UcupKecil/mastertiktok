@@ -346,11 +346,7 @@
                                         <h3>QNA Tanya Jawab Tentang Kelas:</h3>
                                         <div id="accordion">
                                             <!--start curriculum single-->
-                                            <div class="card active" style="color: #10c3c8;
-    font-family: 'Rubik';
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 26px;">
+                                            <div class="card active">
                                                 <div class="card-header two active">
                                                     <a class="card-link" data-toggle="collapse" href="#collapseOne">Untuk daftar apakah perlu banyak followers dulu??</a>
                                                 </div>
