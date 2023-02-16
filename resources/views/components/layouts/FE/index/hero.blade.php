@@ -1,5 +1,5 @@
 <section class="hero-area" style="
-    background-image: url(../images/logomta.png);
+    background-image: {{ asset('assets/templates/omexo/assets/images/logomta.png') }};
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
