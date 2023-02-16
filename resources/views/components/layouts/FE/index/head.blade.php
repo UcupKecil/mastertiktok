@@ -19,8 +19,9 @@
     <!--animate css-->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/animate.css') }}">
     <!--main css-->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/style.css') }}">
+    
     <!--responsive css-->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/responsive.css') }}">
     <!--jQuery js-->
