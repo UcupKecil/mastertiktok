@@ -1,3 +1,8 @@
+.footer-widget.logo img {
+    max-width: 160px;
+    margin-bottom: 20px;
+}
+
 .footer-top-area {
     background: #000000;
     padding: 90px 0;
