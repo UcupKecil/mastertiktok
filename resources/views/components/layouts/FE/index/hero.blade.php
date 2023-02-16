@@ -1,4 +1,4 @@
-<section class="hero-area">
+<section class="">
     <div class="container">
         <div class="caption-content text-center">
            
