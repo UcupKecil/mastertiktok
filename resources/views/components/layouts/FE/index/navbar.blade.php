@@ -41,7 +41,7 @@
             <div class="main-menu-wrap">
                 <div class="">
                     <a class="logo" href="{{ url('/') }}">
-                        <img src="{{ asset('assets/templates/omexo/assets/images/logo.png') }}" alt="logo">
+                        <img src="{{ asset('assets/templates/omexo/assets/images/logomta.png') }}" alt="logo">
                     </a>
                 </div>
 
