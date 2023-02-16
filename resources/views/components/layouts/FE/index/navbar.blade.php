@@ -39,7 +39,7 @@
     <div class="header-btm-area">
         <div class="container">
             <div class="main-menu-wrap">
-                <div class="site-logo">
+                <div class="">
                     <a class="logo" href="{{ url('/') }}">
                         <img src="{{ asset('assets/templates/omexo/assets/images/logo.png') }}" alt="logo">
                     </a>

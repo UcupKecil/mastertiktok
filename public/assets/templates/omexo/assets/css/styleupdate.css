@@ -13,3 +13,7 @@
     background: #10c3c8;
     padding: 20px 0;
 }
+
+.site-logo img {
+    max-width: 160px;
+}
