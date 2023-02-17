@@ -20,7 +20,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/animate.css') }}">
     <!--main css-->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum0.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/styleupdate.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum1.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum4.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum3.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum5.css') }}">
