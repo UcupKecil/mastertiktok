@@ -1,0 +1,572 @@
+/*-------------------------------------------------------------------------------------
+    Video Area
+---------------------------------------------------------------------------------------*/
+.video-area {
+    padding: 100px 0 90px
+}
+
+.video-area.two {
+    padding: 100px 0
+}
+
+
+.video-cont-two {
+    margin: 55px 0 0 40px;
+}
+
+.video-cont-two .btn-default a {
+    margin: 0;
+}
+
+/*-------------------------------------------------------------------------------------
+    Course Area
+---------------------------------------------------------------------------------------*/
+
+.course-area {
+    padding: 90px 0 210px;
+}
+
+.course-card {
+    margin-bottom: 30px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(51, 51, 51, 0.10);
+    box-shadow: 0 0 10px rgba(51, 51, 51, 0.10);
+    overflow: hidden;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    background-color: #fff;
+    position: relative
+}
+
+.course-card:hover {
+    -webkit-box-shadow: 0 10px 40px rgba(51, 51, 51, 0.10);
+    box-shadow: 0 10px 40px rgba(51, 51, 51, 0.10);
+}
+
+.course-content {
+    padding: 30px 35px;
+}
+
+.course-price {
+    color: #ed1e52;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.course-title a {
+    color: #10c3c8;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+}
+
+.course-title a:hover {
+    color: #ed1e52;
+}
+
+.star-rating-group {
+    color: #f4c150;
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+}
+
+.course-rating-count {
+    margin-left: 5px;
+    font-size: 16px;
+    font-family: "Rubik", Sans-serif;
+    color: #000000;
+}
+
+.course-content-footer {
+    border-top: 1px solid #efecec;
+    padding-top: 20px;
+    margin: 25px 0;
+    font-size: 15px;
+    font-family: "Rubik", Sans-serif;
+    color: #000000;
+}
+
+.course-duration {
+    float: left;
+}
+
+.course-user {
+    float: right;
+}
+
+.course-content-footer ul li i {
+    color: #000000;
+    margin-right: 2px;
+}
+
+.course-card.three .course-thumbnail {
+    position: relative
+}
+
+.course-card.three h5 {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    color: #ed1e52;
+    background-color: #fff;
+    padding: 4px 15px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 22px;
+    border-radius: 4px;
+    font-family: "Rubik", Sans-serif;
+}
+
+.category-btn a {
+    margin-top: 30px;
+}
+
+.feat-course-area {
+    padding: 90px 0
+}
+
+.course-area.two {
+    padding: 90px 0;
+}
+
+.course-area.three {
+    padding: 90px 0 100px;
+}
+
+/*-------------------------------------------------------------------------------------
+    Discount Area
+---------------------------------------------------------------------------------------*/
+
+.discount-area {
+    background-color: #10c3c8;
+    background-image: url(../images/bg-2.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.discount-area-two {
+    padding: 0 0 20px
+}
+
+.discount-wrap {
+    background-color: #10c3c8;
+    margin-top: -210px;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative
+}
+
+.discount-wrap.two {
+    margin-top: 0;
+}
+
+.discount-wrap.three {
+    background-color: #fff;
+    -webkit-box-shadow: 0px 20px 40px 0px rgba(51, 51, 51, 0.1);
+    box-shadow: 0px 20px 40px 0px rgba(51, 51, 51, 0.1);
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: -100px;
+}
+
+.discount-img {
+    border: 10px solid #fff;
+    border-radius: 10px 0 10px 10px;
+    width: 45%;
+    float: left
+}
+
+.discount-cont {
+    padding: 100px 50px 0;
+    width: 55%;
+    float: left
+}
+
+.discount-cont h2 {
+    font-size: 45px;
+    line-height: 50px;
+    font-weight: 700;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+.discount-cont h4 {
+    color: #ed1e52;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1px;
+    margin-bottom: 20px
+}
+
+.discount-cont p {
+    color: #fff;
+}
+
+#countdown {
+    margin: 40px 0;
+}
+
+.syotimer__body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.syotimer__body > div {
+    margin-right: 60px;
+}
+
+.syotimer-cell__value {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.syotimer-cell__unit {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #fff;
+    font-family: "Rubik", sans-serif;
+    text-transform: uppercase;
+}
+
+.discount-cont .btn-default a {
+    background-color: #fff;
+    color: #ed1e52;
+    margin-top: 10px
+}
+
+.discount-cont .btn-default a:hover {
+    background-color: #ed1e52;
+    color: #fff
+}
+
+.discount-area.two {
+    background: none;
+    padding-top: 20px
+}
+
+.discount-wrap.two {
+    background-image: url(../images/banner-1.jpg);
+    position: relative;
+    border-radius: 50px;
+    padding: 100px 0px
+}
+
+.discount-wrap.two:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(140deg, #050133 50%, #FFFFFF57 100%);
+    opacity: 0.86;
+}
+
+.discount-cont.two {
+    width: auto;
+    float: none;
+    padding: 0 50px
+}
+
+.countdown-two .syotimer-cell {
+    width: 25%;
+    height: 110px;
+    background-color: #10c3c88F;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF21;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 50%);
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 50%);
+    margin-left: 6px;
+    margin-right: 6px !important;
+    padding: 16px 0px 5px 0px;
+    text-align: center;
+}
+
+.syotimer-cell__value {
+    color: #ed1e52;
+}
+
+.discount-cont.three .syotimer__body > div {
+    text-align: center;
+}
+
+.discount-cont.three {
+    padding: 0 0 0 45px;
+}
+
+.discount-cont.three h2,
+.discount-cont.three .syotimer-cell__unit {
+    color: #10c3c8;
+}
+
+.discount-cont.three .btn-default a {
+    background-color: #ed1e52;
+    color: #fff;
+}
+
+.discount-cont.three #countdown {
+    margin: 0 0 25px;
+}
+
+.discount-cont.three .btn-default a:hover {
+    background-color: #10c3c8;
+}
+
+/*-------------------------------------------------------------------------------------
+    Webinar Area
+---------------------------------------------------------------------------------------*/
+
+.Webinar-area {
+    padding: 0 0 250px;
+}
+
+.webinar-single {
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(51, 51, 51, 0.10);
+    box-shadow: 0 0 10px rgba(51, 51, 51, 0.10);
+    margin-bottom: 30px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    overflow: hidden
+}
+
+.webinar-single:hover {
+    -webkit-box-shadow: 0 10px 40px rgba(51, 51, 51, 0.10);
+    box-shadow: 0 10px 40px rgba(51, 51, 51, 0.10);
+}
+
+.webinar-img {
+    max-width: 45%;
+    float: left;
+}
+
+.webinar-img img {
+    border-radius: 10px;
+}
+
+.webinar-content {
+    padding: 15px 20px 0 30px;
+    float: left;
+    width: 55%;
+}
+
+.webinar-content h3 a {
+    color: #10c3c8;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.webinar-content h3 a:hover {
+    color: #ed1e52;
+}
+
+.webinar-meta li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.webinar-meta li i {
+    color: #ed1e52;
+    margin-right: 5px;
+}
+
+.webinar-meta span {
+    color: #000000;
+    font-family: "Bebas+Neue", Sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 26px;
+    margin-left: 12px;
+}
+
+.webinar-content p {
+    margin-top: 15px;
+}
+
+.webinar-btn a {
+    font-size: 15px;
+    line-height: 25px;
+    color: #ed1e52;
+    border: 1px solid #ed1e52;
+    border-radius: 4px;
+    padding: 5px 15px;
+    font-family: 'Rubik', sans-serif;
+    display: inline-block;
+    margin-top: 5px
+}
+
+.webinar-btn a:hover {
+    color: #fff;
+    background-color: #ed1e52;
+}
+
+.webinar-area.two {
+    background-color: #f7f7f7;
+    padding: 100px 0;
+}
+
+.webinar-area.three {
+    padding: 100px 0 70px;
+}
+
+.webinar-area.four {
+    padding: 80px 0 90px;
+}
+
+.Webinar-area.two {
+    padding: 90px 0 70px
+}
+
+/*-------------------------------------------------------------------------------------
+    Webinar Single Page
+---------------------------------------------------------------------------------------*/
+.webinar-single-area {
+    padding: 100px 0;
+}
+
+.webinar-meta-info li {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 24px;
+    margin-right: 35px;
+    line-height: 34px;
+}
+
+.webinar-meta-info li img {
+    width: 22px;
+    margin-right: 10px;
+}
+
+.webinar-meta-info {
+    width: 85%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 0 30px rgba(51, 51, 51, 0.1);
+    box-shadow: 0 0 30px rgba(51, 51, 51, 0.1);
+    padding: 40px;
+    margin-top: -50px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+#countdown.countdown-three .syotimer__body {
+    padding: 0 230px;
+    margin-top: 100px
+}
+
+#countdown.countdown-three .syotimer__body > div {
+    margin-right: 25px;
+}
+
+#countdown.countdown-three .syotimer-cell__value {
+    color: #10c3c8;
+}
+
+#countdown.countdown-three .syotimer-cell__unit {
+    color: #10c3c8;
+    font-weight: 500;
+}
+
+#countdown.countdown-three .syotimer-cell {
+    -webkit-box-shadow: 0 0 30px rgba(51, 51, 51, 0.1);
+    box-shadow: 0 0 30px rgba(51, 51, 51, 0.1);
+    width: 160px;
+    height: 160px;
+    padding-top: 45px;
+    border-radius: 100%;
+    text-align: center
+}
+
+.webinar-single-area h2 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+}
+
+.webinar-single-desc .about {
+    margin-bottom: 50px;
+    margin-top: 100px
+}
+
+.webinar-single-desc li {
+    padding: 10px 0;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.webinar-single-desc li i {
+    color: #ed1e52;
+    padding-right: 8px;
+}
+
+.key-topic-single h4 {
+    font-weight: 700;
+}
+
+.key-topic-single img {
+    width: 20px;
+    margin-right: 15px;
+}
+
+.key-topic-single p {
+    padding-left: 35px;
+}
+
+.webinar-single-desc list-content {
+    margin-bottom: 86px;
+    overflow: hidden;
+}
+
+.webinar-single-desc .list-content {
+    margin-bottom: 50px;
+}
+
+.webinar-single-desc .list-content h2 {
+    margin-left: -15px;
+}
+
+.key-topic h2 {
+    margin-bottom: 25px;
+}
+
+.speakers-area {
+    padding: 70px 0;
+}
+
+.speakers-area h2 {
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+.contact-form.webinar {
+    margin-left: 0
+}
+
+.webinar-registration.contact h2 {
+    margin-bottom: 30px;
+}
+
+.webinar-area.four.single {
+    padding-bottom: 0;
+}
+
+.webinar-area.four.single h2 {
+    margin-left: 15px;
+    margin-bottom: 20px;
+}

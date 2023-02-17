@@ -22,6 +22,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum4.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum3.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/stylecuriculum5.css') }}">
     <!--responsive css-->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/templates/omexo/assets/css/responsive.css') }}">
     <!--jQuery js-->
